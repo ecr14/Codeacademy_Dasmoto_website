@@ -1,1 +1,3 @@
-# Codeacademy_Dasmoto_Arts_Website
+Codeacademy Front End Developer Path
+
+Arts & Crafts Website
